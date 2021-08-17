@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background:url(https://cdn3.eyeem.com/thumb/5c92dd021316ea3bf3ed34f80ef8c4f62697b7e1-1539099781517/w/800);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+button{
+    background: transparent;
+    color: ivory;
+}
+
+.tip-calc{
+    margin-left: 15%;
+    margin-top: 5%;
+    font-family: monospace;
+}
+.tip-calc input{
+    background-color: transparent;
+    color: white;
+    font-family: monospace;
+}
